@@ -50,3 +50,7 @@ Thread-safe Collection: A CopyOnWriteArraySet is used to store the list of Print
 BufferedReader and PrintWriter: These are used for reading and writing messages between the server and client. BufferedReader reads input from the network, while PrintWriter sends output to the network.
 Conclusion:
 This chat application demonstrates the fundamentals of client-server communication, multi-threading, and message broadcasting. It allows multiple clients to send and receive messages to/from each other via the server. The code is designed to handle client connections efficiently and manage multiple clients simultaneously by using threads and a thread-safe data structure.
+
+Output:
+![Image](https://github.com/user-attachments/assets/bac61d56-b1b4-44af-826d-42a9a8e3dbab)
+![Image](https://github.com/user-attachments/assets/12d2cfb1-8df4-4448-b26e-c48ceecd3ea3)
